@@ -1,1 +1,1 @@
-https://github.com/merkulovd400/Ono-Tebe-Nado__Practicum
+https://github.com/merkulovd400/ono-tebe-nado-fd
