@@ -125,10 +125,9 @@
 }
 
 .cover__description-text {
-  word-spacing: 19px;
+  word-spacing: 18.5px;
   font-weight: 400;
   font-size: 22px;
-  line-height: 28px;
 }
 
 .lots {
