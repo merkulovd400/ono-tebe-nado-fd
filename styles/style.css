@@ -47,7 +47,7 @@
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
-  text-underline-offset: 5px;   
+  text-underline-offset: 5px;
 }
 
 .cover {
@@ -158,6 +158,12 @@
 .card {
   height: 100%;
   position: relative;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 48px 40px;
 }
 
 .card-link {
@@ -173,15 +179,6 @@
   text-transform: uppercase;
   z-index: 1;
   text-underline-offset: 3px;
-}
-
-.card {
-  text-decoration: none;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  padding: 48px 40px;
 }
 
 .card__text {
@@ -237,7 +234,7 @@
   align-items: center;
   width: 240px;
   height: 240px;
-  border-radius: 50%; 
+  border-radius: 50%;
   background-color: black;
 }
 
