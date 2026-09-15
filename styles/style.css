@@ -33,9 +33,6 @@
     height: 105px;
 }
 
-.header__address {
-}
-
 .address {
     display: flex;
     flex-direction: column;
