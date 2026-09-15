@@ -202,6 +202,7 @@
     padding-top: 30px;
     padding-left: 40px;
     text-underline-offset: 4px;
+    max-width: fit-content;
 }
 
 .about {
